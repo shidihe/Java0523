@@ -1,6 +1,6 @@
- public class test01{
+ class test01{
 
   public static void main()
 {
-    System.out.pritln("hello world");
+    System.out.println("hello world");
 }}
